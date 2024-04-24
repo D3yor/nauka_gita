@@ -1,1 +1,2 @@
-funkcja srednia
+funkcja srednia 
+srednia wazona
